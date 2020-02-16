@@ -49,7 +49,8 @@
       "settings": {
         "meta_descr": "",
         "title": "Team Picture",
-        "order": 1
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/psgpic-1032x581.jpg"
       },
       "components": [
         {
@@ -2470,7 +2471,8 @@
       "settings": {
         "meta_descr": "",
         "title": "Become a Fan",
-        "order": 5
+        "order": 5,
+        "meta_image": "@PROJECT_PATH@/assets/images/complete-team-picture-1366x768.jpg"
       },
       "components": [
         {
@@ -3121,11 +3123,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "DigwalePSGFC",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/complete-logo-467x657.png"
       },
       "components": [
         {
